@@ -24,7 +24,7 @@ export default function Home() {
         <p>
           made with ♥️ by{' '}
           <a 
-            href="https://x.com/kaizoku" 
+            href="https://x.com/kaizoku_ap" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-gensyn-cyan hover:text-gensyn-blue transition-colors duration-300"
